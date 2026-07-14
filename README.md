@@ -41,6 +41,8 @@ EduGenie/
 ├── app.py
 ├── requirements.txt
 └── README.md
+
+
 Installation
 
 git clone https://github.com/kokkiligaddasanjana/EduGenie.git
@@ -55,9 +57,11 @@ pip install -r requirements.txt
 
 uvicorn app:app --reload
 
+
 Screenshots
 
 (Add screenshots here)
+
 
 Author
 
