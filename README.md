@@ -1,5 +1,5 @@
  # EduGenie
-AI-powered educational assistant using FastAPI and Python. 
+AI-powered educational assistant using FastAPI and Python.
 🎓 EduGenie - AI Educational Assistant
 
 EduGenie is an AI-powered educational assistant built using FastAPI and Google Gemini API. It helps students learn by answering questions, explaining concepts, generating quizzes, summarizing text, and providing learning recommendations.
@@ -62,3 +62,6 @@ Screenshots
 Author
 
 Sanjana Sree
+
+
+ 
