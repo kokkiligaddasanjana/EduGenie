@@ -24,6 +24,7 @@ Technologies Used
 
 Project Structure
 
+```text
 EduGenie/
 │
 ├── ai/
@@ -40,7 +41,6 @@ EduGenie/
 ├── app.py
 ├── requirements.txt
 └── README.md
-
 Installation
 
 git clone https://github.com/kokkiligaddasanjana/EduGenie.git
